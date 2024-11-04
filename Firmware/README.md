@@ -1,5 +1,5 @@
 # Firmware
-## DAY 1
+## DAY 1 / DAY 2
 사용된 보드:  
   
 보드 이름:  *Nucleo*  
